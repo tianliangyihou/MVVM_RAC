@@ -1,3 +1,0 @@
-# MVVM+RAC
-# test2
-
